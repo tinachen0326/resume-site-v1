@@ -13,13 +13,13 @@ https://resume-site-blush.vercel.app
 - **專案卡片互動效果**：滑鼠移動卡片會有放大與光暈效果。
 
 ## 技術架構
-- **前端框架 / 工具**
+**前端框架 / 工具**
   - [Bootstrap 5](https://getbootstrap.com/) - 排版與元件
   - [Bootstrap Icons](https://icons.getbootstrap.com/) - 圖示
   - [AOS.js](https://michalsnik.github.io/aos/) - 滾動動畫效果
-- **設計**
+**設計**
   - Figma / Adobe Photoshop / Illustrator
-- **語言**
+**語言**
   - HTML5
   - CSS3 (含自訂動畫與樣式)
   - JavaScript (互動效果與動畫控制)

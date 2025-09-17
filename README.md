@@ -1,4 +1,13 @@
 # 履歷網站 Resume Site
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![AOS](https://img.shields.io/badge/AOS.js-00D8FF?style=for-the-badge&logo=javascript&logoColor=black)](https://michalsnik.github.io/aos/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![License](https://img.shields.io/badge/License-Personal_Use-blue?style=for-the-badge)](#版權聲明)
+
 ## 專案簡介
 這是履歷網站，網站設計融合了科技感的設計與前端互動，適合作為履歷網站與作品展示平台。
 
